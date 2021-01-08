@@ -12,7 +12,7 @@
 Description...
 
 ## Requirements
-Some python libraries
+Numpy, Pandas, Seaborn, Matplotlib, Sklearn
 
 ---
 
